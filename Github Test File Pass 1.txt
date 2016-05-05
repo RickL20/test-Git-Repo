@@ -1,4 +1,4 @@
-rem test line 1 -- this line to never change
+rem test line 1 -- this line to never change--never change this line
 rem test line 2 -- Sandy modifies/adds to this line
 rem test line 3 -- Ed modifies/adds to this line
 rem test line 4x -- Sandy deletes this line
