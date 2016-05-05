@@ -1,0 +1,16 @@
+rem test line 1 -- this line to never change
+rem test line 2 -- Sandy modifies/adds to this line
+rem test line 3 -- Ed modifies/adds to this line
+rem test line 4x -- Sandy deletes this line
+rem test line 5x -- Ed deletes this line
+rem test line 6x -- Sandy and Ed both delete this line
+rem test line 7(4) -- this line to never change but should change to line 4 position
+rem test line 8b(5b/6) -- Sandy creates a new line labeled rem test line 8a(5a) moving line 8b/5b to line 6 position 
+rem test line 9b(7b/8) -- Ed creates a new line labeled rem test line 9a(7a) moving line 9b/7b to line 8 position 
+rem test line 10/9
+rem test line 11/10
+rem test line 12/11
+rem test line 13/12
+rem test line 14/13
+rem test line 15/14  Sandy writes his Git Procedures on this line using punctuation
+rem test line 16/15  Ed writes his Git Procedures on this line using punctuation
